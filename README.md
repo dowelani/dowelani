@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dowelani khumbelo Shaun</h1>
-<h3 align="center">A passionate frontend and backend software developer</h3>
+<h3 align="center">A passionate frontend and backend software developer and data scientist</h3>
 
 
 <p align="left">
