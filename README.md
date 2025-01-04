@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dowelani khumbelo Shaun</h1>
+<h1 align="center">Hi 👋, I'm Dowelani Khumbelo Shaun</h1>
 <h3 align="center">A passionate frontend and backend software developer and data scientist</h3>
 
 
